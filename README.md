@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @majoeromero
 - 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on companies where I can take on challenging projects
+- I’m looking to collaborate on companies where I can take on challenging projects
 
 
 <!---
